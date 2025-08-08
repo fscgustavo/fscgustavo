@@ -1,7 +1,7 @@
 <h1 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"/> Hi, I'm Gustavo Fonseca </h1> 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=fscgustavo&color=yellow" alt="Profile views" /> </p> -->
 
-- 🔥 Driven Frontend Engineer with 4+ years of experience in web development. I helped retailers boost online sales and improve customer experience through design systems, performance optimizations, and strategic SEO.
+- 🔥 Driven Frontend Engineer with 5+ years of experience in web development. I helped retailers boost online sales and improve customer experience through design systems, performance optimizations, and strategic SEO.
   
   I thrive in collaborative settings and always look for opportunities to learn and contribute. My goal is to be in an environment where both the company and its employees mutually invest in growth and excellence.
 
