@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React, NextJS, TypeScript, JavaScript, Node.js, HTML and CSS.**
 
-- 👨‍💻 More at [gufonseca.com](https://gufonseca.com)
+- 👨‍💻 More at [gufonseca.vercel.app](https://gufonseca.vercel.app)
 
 <br><br>
 
